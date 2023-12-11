@@ -481,7 +481,7 @@ body {
 	line-height: 1.6;
 	font-weight: 500;
 	font-family:  'Mona Sans', -apple-system, "Helvetica Neue", Helvetica, BlinkMacSystemFont, "Segoe UI", sans-serif;
-	color: rgb(79, 79, 79);
+	color: #F9F9F9;
 	font-weight: 800;
 }
 
@@ -528,8 +528,9 @@ a {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
 	color: #0f1b61;
-	transition: color 0.5s ease-out;
-	text-decoration: none;
+	transition: color 0.25s ease-out;
+	text-decoration: underline;
+	text-decoration-color: #5AA9E6;
 }
 a:hover {
 	color: #0FA0CE;
@@ -753,7 +754,7 @@ hr {
 	margin-top: 3rem;
 	margin-bottom: 3.5rem;
 	border-width: 0;
-	border-top: 1px solid #E1E1E1; }
+	border-top: 1px solid #5AA9E6; }
 
 
 /* Clearing
