@@ -1,30 +1,31 @@
-<feed>
-	<link href="https://dillonjohnbrown.github.io/Dalmation-Blue/feed.xml" rel="self" type="application/atom+xml"/>
-	<link href="https://dillonjohnbrown.github.io/Dalmation-Blue/" rel="alternate" type="text/html"/>
-	<updated>2023-12-11T21:39:24+00:00</updated>
-	<id>https://dillonjohnbrown.github.io/Dalmation-Blue/feed.xml</id>
-	<title type="html">Dalmation Blue</title>
-	<subtitle>TV's Michelin Guide</subtitle>
-	<author>
-		<name>Dillon Brown</name>
-	</author>
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Example Feed</title>
+	<subtitle>A subtitle.</subtitle>
+	<link href="http://example.org/feed/" rel="self" />
+	<link href="http://example.org/" />
+	<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	<updated>2003-12-13T18:30:02Z</updated>
 	
 	<entry>
-		<title>Connections</title>
-		<link rel="alternate" type="text/html" href="https://en.wikipedia.org/wiki/Connections_(British_TV_series)"/>
-		<link rel="related" type="text/html" href="https://dillonjohnbrown.github.io/Dalmation-Blue/"/>
-		<published>2023-12-12</published>
-		<updated>2023-12-12</updated>
-		<author>
-			<name>Dillon Brown</name>
-			<uri>https://dillonjohnbrown.github.io/Dalmation-Blue/</uri>
-		</author>
-		<content type="html" xml:base="https://dillonjohnbrown.github.io/Dalmation-Blue/" xml:lang="en">
-			<p>Test</p>
-			<blockquote>
-				<p>Paragraph 1</p> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			</blockquote>
-			<p>Hello.</p>
+		<title>Atom-Powered Robots Run Amok</title>
+		<link href="http://example.org/2003/12/13/atom03" />
+		<link rel="alternate" type="text/html" href="http://example.org/2003/12/13/atom03.html"/>
+		<link rel="edit" href="http://example.org/2003/12/13/atom03/edit"/>
+		<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+        <published>2003-11-09T17:23:02Z</published>
+		<updated>2003-12-13T18:30:02Z</updated>
+		<summary>Some text.</summary>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>This is the entry content.</p>
+			</div>
 		</content>
+		<author>
+			<name>John Doe</name>
+			<email>johndoe@example.com</email>
+		</author>
 	</entry>
 </feed>
