@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Dalmation Blue</title>
-    <link rel="self" href="/feed" />
+    <link rel="self" href="/atom.xml" />
     <updated>2024-01-13T18:30:02Z</updated>
 
     <author>
@@ -20,10 +20,9 @@
 
 
     <entry>
-        <title>Atom-Powered Robots Run Amok</title>
-        <link href="http://example.org/2003/12/13/atom03"/>
-        <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
-        <updated>2003-12-13T18:30:02Z</updated>
+        <title>Dream Corp LLC</title>
+        <link href="https://en.wikipedia.org/wiki/Dream_Corp_LLC"/>
+        <updated>2024-01-12</updated>
         <summary>Some text.</summary>
     </entry>
 
