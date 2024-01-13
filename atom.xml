@@ -10,15 +10,43 @@
 
     <id>https://dillonjohnbrown.github.io/Dalmation-Blue/</id>
 
+
     <entry>
-        <title>Name</title>
-        <link href="http://example.org/2003/12/13/atom03"/>
+        <title>Dan Soder: Son of a Gary</title>
+        <link href="https://www.dansoder.com/son-of-gary"/>
         <updated>2003-12-13</updated>
         <summary>Some text.</summary>
     </entry>
-
-
-
+    <entry>
+        <title>KILL TONY #608 - ADAM RAY</title>
+        <link href="https://youtu.be/nwXSS0wBsFA"/>
+        <updated>2003-12-13</updated>
+        <summary>Some text.</summary>
+    </entry>
+    <entry>
+        <title>Adam Ray: Read The Room</title>
+        <link href="https://youtu.be/IQgP0IyIdtg"/>
+        <updated>2003-12-13</updated>
+        <summary>Some text.</summary>
+    </entry>
+    <entry>
+        <title>Paranoia and Moral Panics</title>
+        <link href="https://www.bbc.co.uk/programmes/p07c6m84"/>
+        <updated>2003-12-13</updated>
+        <summary>Some text.</summary>
+    </entry>
+    <entry>
+        <title>The Wire</title>
+        <link href="https://en.wikipedia.org/wiki/The_Wire"/>
+        <updated>2003-12-13</updated>
+        <summary>Some text.</summary>
+    </entry>
+    <entry>
+        <title>Adventure Time</title>
+        <link href="https://en.wikipedia.org/wiki/Adventure_Time"/>
+        <updated>2003-12-13</updated>
+        <summary>Some text.</summary>
+    </entry>
     <entry>
         <title>Dream Corp LLC</title>
         <link href="https://en.wikipedia.org/wiki/Dream_Corp_LLC"/>
