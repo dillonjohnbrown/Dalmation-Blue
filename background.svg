@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="962px" height="599px" viewBox="0 0 962 599" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <defs>
+        <filter x="-87.6%" y="-70.7%" width="275.2%" height="241.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="66.0098757" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-84.8%" y="-73.4%" width="269.7%" height="246.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="56.3025411" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-76.3%" y="-71.6%" width="252.6%" height="243.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="58.244008" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M406.333187,190.108725 C424.380607,247.187853 421.081616,309.703088 384.404601,339.407532 C347.921643,369.111976 277.866603,366.199776 236.144072,333.777278 C194.615599,301.160634 181.225577,239.033692 198.108648,183.507737 C215.185777,127.787636 262.34194,78.668523 305.810996,80.0275499 C349.085993,81.3865767 388.285766,133.029597 406.333187,190.108725 Z" id="Path-Copy" fill="#58508D" fill-rule="nonzero" filter="url(#filter-1)"></path>
+        <path d="M777.101692,159.554982 C790.063342,202.336816 777.341722,251.127334 741.097108,280.690061 C704.612464,310.252789 644.604825,320.828074 612.440731,296.552988 C580.276636,272.277903 575.716056,213.152448 592.518195,165.082972 C609.560364,117.253844 647.725222,80.2403474 686.370142,80 C725.015061,80 763.900011,116.773149 777.101692,159.554982 Z" id="Path-Copy-2" fill="#FF6361" fill-rule="nonzero" filter="url(#filter-2)"></path>
+        <path d="M620.746386,220.88239 C638.023512,266.861929 638.023512,325.45189 602.110385,356.686935 C566.197258,387.921981 494.56513,391.802111 451.081128,359.597033 C407.403001,327.197948 392.26125,258.907663 410.703126,210.988059 C429.339127,162.874448 481.947004,135.13152 525.431006,138.235624 C568.915008,141.145721 603.46926,174.708845 620.746386,220.88239 Z" id="Path-Copy-3" fill="#BC5090" fill-rule="nonzero" filter="url(#filter-3)"></path>
+    </g>
+</svg>
