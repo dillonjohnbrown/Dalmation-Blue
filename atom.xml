@@ -4,7 +4,7 @@
 	<link rel="self" href="/atom.xml" />
 	<icon>icon.png</icon>
 	<logo>icon.png</logo>
-	<updated>2024-08-30T18:30:02Z</updated>
+	<updated>2004-09-12T18:30:02Z</updated>
 
     <author>
         <name>Dillon Brown</name>
@@ -21,6 +21,11 @@
 	</entry>
 
  -->
+<entry>
+    <title>Pootie Tang</title>
+    <link href="https://www.amazon.com/Pootie-Tang-Lance-Crouther/dp/B000I0D58G"/>
+    <updated>2004-09-12</updated>
+</entry>
 <entry>
     <title>Inside Out 2</title>
     <link href="https://movies.disney.com/inside-out-2"/>
