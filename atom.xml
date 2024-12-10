@@ -4,7 +4,7 @@
 	<link rel="self" href="/atom.xml" />
 	<icon>icon.png</icon>
 	<logo>icon.png</logo>
-	<updated>2024-12-03T18:30:02Z</updated>
+	<updated>2024-12-10T18:30:02Z</updated>
 
     <author>
         <name>Dillon Brown</name>
@@ -21,6 +21,11 @@
 	</entry>
 
  -->
+<entry>
+    <title>Bob's Burgers: Season 15, Episode 8 - "They Slug Horses, Don't They?"</title>
+    <link href="https://www.amazon.com/Bobs-Burgers-Season-15/dp/B0D43RM68Q"/>
+    <updated>2024-12-10</updated>
+</entry>
 <entry>
     <title>Mr. Neighbor's House</title>
     <link href="https://www.adultswim.com/videos/mr-neighbors-house"/>
