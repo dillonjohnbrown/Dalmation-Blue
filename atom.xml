@@ -4,7 +4,7 @@
 	<link rel="self" href="/atom.xml" />
 	<icon>icon.png</icon>
 	<logo>icon.png</logo>
-	<updated>2024-12-10T18:30:02Z</updated>
+	<updated>2025-08-23T18:30:02Z</updated>
 
     <author>
         <name>Dillon Brown</name>
@@ -21,7 +21,16 @@
 	</entry>
 
  -->
-
+ <entry>
+    <title>Assholes</title>
+    <link href="https://www.factorytwentyfive.com/as-holes"/>
+    <updated>2025-08-23</updated>
+</entry>
+<entry>
+    <title>South Park: Season 17, Episode 1 - Sermon on the 'Mount</title>
+    <link href="https://southpark.cc.com/seasons/south-park/uoyr4f/season-27"/>
+    <updated>2025-07-24</updated>
+</entry>
 <entry>
     <title>Richard Pryor: Live on the Sunset Strip </title>
     <link href="https://en.wikipedia.org/wiki/Richard_Pryor%3A_Live_on_the_Sunset_Strip_(film)"/>
