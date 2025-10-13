@@ -4,7 +4,7 @@
 	<link rel="self" href="/atom.xml" />
 	<icon>icon.png</icon>
 	<logo>icon.png</logo>
-	<updated>2025-08-30T18:30:02Z</updated>
+	<updated>2025-10-12T18:30:02Z</updated>
 
     <author>
         <name>Dillon Brown</name>
@@ -21,6 +21,11 @@
 	</entry>
 
  -->
+<entry>
+    <title>The Boys and Girls Guide to Getting Down</title>
+    <link href="https://en.wikipedia.org/wiki/The_Boys_&_Girls_Guide_to_Getting_Down"/>
+    <updated>2025-10-12</updated>
+</entry>
 
  <entry>
     <title>Cool Hand Luke</title>
