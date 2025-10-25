@@ -4,7 +4,7 @@
 	<link rel="self" href="/atom.xml" />
 	<icon>icon.png</icon>
 	<logo>icon.png</logo>
-	<updated>2025-10-12T18:30:02Z</updated>
+	<updated>2025-10-25T18:30:02Z</updated>
 
     <author>
         <name>Dillon Brown</name>
@@ -21,6 +21,21 @@
 	</entry>
 
  -->
+ <entry>
+    <title>Moriyama-San </title>
+    <link href="https://www.bekalemoine.com/moriyama.php"/>
+    <updated>2025-10-25T18:30:02Z</updated>
+</entry>
+<entry>
+    <title>Mickey 17</title>
+    <link href="https://en.wikipedia.org/wiki/Mickey_17"/>
+    <updated>2025-10-25T18:30:02Z</updated>
+</entry>
+<entry>
+    <title>King Gizzard & The Lizard Wizard - Grow Wings and Fly (Official Video)</title>
+    <link href="https://www.youtube.com/watch?v=TWUIsRsvJC8"/>
+    <updated>2025-10-25T18:30:02Z</updated>
+</entry>
 <entry>
     <title>The Boys and Girls Guide to Getting Down</title>
     <link href="https://en.wikipedia.org/wiki/The_Boys_&_Girls_Guide_to_Getting_Down"/>
