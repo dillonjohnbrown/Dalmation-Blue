@@ -4,7 +4,7 @@
 	<link rel="self" href="/atom.xml" />
 	<icon>icon.png</icon>
 	<logo>icon.png</logo>
-	<updated>2025-11-30T18:30:02Z</updated>
+	<updated>2025-12-01T18:30:02Z</updated>
 
     <author>
         <name>Dillon Brown</name>
@@ -21,6 +21,12 @@
 	</entry>
 
  -->
+<entry>
+    <title>Mr. Neighbor's House 2</title>
+    <link href="https://www.adultswim.com/videos/mr-neighbors-house/mr-neighbors-house-2"/>
+    <updated>2025-12-01T18:30:02Z</updated>
+</entry>
+
   <entry>
     <title>Thoughts &amp; Prayers</title>
     <link href="https://en.wikipedia.org/wiki/Thoughts_%26_Prayers_(2025_film)"/>
@@ -47,7 +53,7 @@
     <updated>2025-10-25T18:30:02Z</updated>
 </entry>
 <entry>
-    <title>King Gizzard & The Lizard Wizard - Grow Wings and Fly (Official Video)</title>
+    <title>King Gizzard &amp; The Lizard Wizard - Grow Wings and Fly (Official Video)</title>
     <link href="https://www.youtube.com/watch?v=TWUIsRsvJC8"/>
     <updated>2025-10-25T18:30:02Z</updated>
 </entry>
