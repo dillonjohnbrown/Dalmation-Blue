@@ -4,7 +4,7 @@
 	<link rel="self" href="/atom.xml" />
 	<icon>icon.png</icon>
 	<logo>icon.png</logo>
-	<updated>2025-12-09T18:30:02Z</updated>
+	<updated>2026-01-03T18:30:02Z</updated>
 
     <author>
         <name>Dillon Brown</name>
@@ -21,6 +21,11 @@
 	</entry>
 
  -->
+<entry>
+    <title>A Dog's Life</title>
+    <link href="https://en.wikipedia.org/wiki/A_Dog%27s_Life_(1918_film)"/>
+    <updated>2026-01-03T18:30:02Z</updated>
+</entry>
 <entry>
     <title>The Uninvited [2024]</title>
     <link href="https://en.wikipedia.org/wiki/The_Uninvited_(2024_film)"/>
