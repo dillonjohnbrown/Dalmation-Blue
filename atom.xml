@@ -4,7 +4,7 @@
 	<link rel="self" href="/atom.xml" />
 	<icon>icon.png</icon>
 	<logo>icon.png</logo>
-	<updated>2026-03-12T18:30:02Z</updated>
+	<updated>2026-03-15T18:30:02Z</updated>
 
     <author>
         <name>Dillon Brown</name>
@@ -21,6 +21,12 @@
 	</entry>
 
  -->
+<entry>
+    <title>The Devil's Advocate</title>
+    <link href="https://en.wikipedia.org/wiki/The_Devil%27s_Advocate_(1997_film)"/>
+    <updated>2026-03-15T18:30:02Z</updated>
+</entry>
+
  <entry>
         <title>Good Luck, Have Fun, Don't Die</title>
         <link href="https://en.wikipedia.org/wiki/Good_Luck,_Have_Fun,_Don%27t_Die"/>
