@@ -4,7 +4,7 @@
 	<link rel="self" href="/atom.xml" />
 	<icon>icon.png</icon>
 	<logo>icon.png</logo>
-	<updated>2026-03-15T18:30:02Z</updated>
+	<updated>2026-04-07T18:30:02Z</updated>
 
     <author>
         <name>Dillon Brown</name>
@@ -21,6 +21,11 @@
 	</entry>
 
  -->
+ <entry>
+    <title>why no one thinks anymore: how to become a person</title>
+    <link href="https://www.youtube.com/watch?v=EMtWko6ejYc"/>
+    <updated>2026-04-07T18:30:02Z</updated>
+</entry>
 <entry>
     <title>The Devil's Advocate</title>
     <link href="https://en.wikipedia.org/wiki/The_Devil%27s_Advocate_(1997_film)"/>
