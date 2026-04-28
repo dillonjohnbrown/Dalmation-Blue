@@ -2,8 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Dalmation Blue</title>
 	<link rel="self" href="/atom.xml" />
-	<icon>icon.png</icon>
-	<logo>icon.png</logo>
+    <icon>https://dillonjohnbrown.github.io/Dalmation-Blue/icon.png</icon>
+    <logo>https://dillonjohnbrown.github.io/Dalmation-Blue/icon.png</logo>
+    <media:thumbnail url="https://dillonjohnbrown.github.io/Dalmation-Blue/icon.png"/>
 	<updated>2026-04-17T18:30:02Z</updated>
 
     <author>
